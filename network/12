@@ -1,0 +1,1 @@
+ifconfig | grep -w "inet" | grep "broadcast" | awk '{print $2}'

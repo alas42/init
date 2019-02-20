@@ -1,0 +1,2 @@
+Slash16.org est heberge chez Amazon Web Services (AWS)
+La commande afin de le trouver est : "whois slash16.org | grep "Name Server"

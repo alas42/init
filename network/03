@@ -1,0 +1,1 @@
+system_profiler SPNetworkDataType | grep Wi-Fi -A10 | grep MAC | awk '{print $3}'

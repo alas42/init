@@ -1,2 +1,2 @@
 ls /etc/init.d/
-Ces services sont nommes "startup scripts"
+Ces services sont nommes "Upstart services"
